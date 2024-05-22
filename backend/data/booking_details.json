@@ -1,0 +1,48 @@
+[
+    {
+        "movie_id": "xoxo002",
+        "user_id": "hsh002",
+        "tickets": [
+            "xo001",
+            "xo002",
+            "xo003"
+        ]
+    },
+    {
+        "movie_id": "xoxo002",
+        "user_id": "hsh001",
+        "tickets": [
+            "xo004",
+            "xo005",
+            "xo006"
+        ]
+    },
+    {
+        "movie_id": "xoxo002",
+        "user_id": "hsh003",
+        "tickets": [
+            "xo007",
+            "xo008",
+            "xo009",
+            "xo010",
+            "xo011",
+            "xo012",
+            "xo013",
+            "xo014",
+            "xo015",
+            "xo016",
+            "xo017",
+            "xo018",
+            "xo019",
+            "xo020"
+        ]
+    },
+    {
+        "movie_id": "xoxo001",
+        "user_id": "hsh001",
+        "tickets": [
+            "seat-0",
+            "seat-3"
+        ]
+    }
+]
